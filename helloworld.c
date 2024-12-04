@@ -1,7 +1,8 @@
 #include <stdio.h>
 //this is a comment
+// thg
 int main(void)
   {
 
-  printf(""hello world);
+  printf("Hello World!");
   }
